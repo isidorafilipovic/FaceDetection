@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FaceDetection</string>
+    <string name="nadji_sliku">Nadji sliku</string>
+    <string name="slikaj_i_pronadji_lice">Slikaj i pronadji lice</string>
+</resources>
